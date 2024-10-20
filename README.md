@@ -16,7 +16,7 @@
    - Speech Denoising using RNN
   
 4. Generative Models
-  - RNNs generative model
-  - Variational Autoencoders on Poor Sevens
-  - Conditonal GAN
-  - Missing Value Imputation Using Conditional GAN
+   - RNNs generative model
+   - Variational Autoencoders on Poor Sevens
+   - Conditonal GAN
+   - Missing Value Imputation Using Conditional GAN
